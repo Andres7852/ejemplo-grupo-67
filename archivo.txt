@@ -1,2 +1,4 @@
-se agrega una linea de texto
-
+se agrega una línea de texto
+este es un cambio remoto
+realizado en otra rama
+en otro equipo
