@@ -5,3 +5,5 @@ en este archivo
 este es un cambio remoto
 realizado en otra rama
 en otro equipo
+Aporte realizado por buri033 para la Actividad 2
+
