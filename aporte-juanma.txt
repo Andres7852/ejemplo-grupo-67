@@ -1,0 +1,4 @@
+# Aporte para la Actividad 2 / Reto 2 - Parte 1
+Realizado por: Juan-Manuel3132007
+Descripción: Cambios agregados para la actividad de Pull Request en el repositorio del compañero Andres7852.
+Fecha: 2026-09-06
